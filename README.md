@@ -26,8 +26,6 @@
 
 
 
-<img align="center" alt="Coding" width="1400" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
-
 <p>
   *Profile under development.
 </p>
