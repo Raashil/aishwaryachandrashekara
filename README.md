@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋</h1>
 <p><h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Developer;Experienced+Full+Stack+Developer;Aspiring+AI%2FML+Developer" alt="Typing SVG" /></a>
